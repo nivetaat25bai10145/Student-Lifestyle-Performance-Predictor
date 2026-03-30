@@ -30,3 +30,6 @@ If the performance is not up to standard, recommendations on how to improve are 
 1. Clone the repository: git clone https://github.com/your-username/student-performance-predictor-ml.gitcd student-performance-predictor-ml
 2. Install dependencies: pip install -r requirements.txt
 3. Run the program: python main.py
+
+
+Overall, this project serves as a good example of applying Machine Learning concepts to solve a relatable problem while keeping the system easy to understand and use.
