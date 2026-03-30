@@ -1,7 +1,7 @@
 # Student-Lifestyle-Performance-Predictor
 
-Name: NIVETAA T
-Registration Number: 25BAI10145
+- Name: NIVETAA T
+- Registration Number: 25BAI10145
 
 
 ## Project Overview
